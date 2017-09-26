@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="normal_bg" type="color">#f2f2f2</item>
+    <item name="pressed_bg" type="color">#c2c2c2</item>
+</resources>
